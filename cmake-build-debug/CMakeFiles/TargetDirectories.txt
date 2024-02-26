@@ -1,0 +1,3 @@
+/Users/admin/CLionProjects/led_matrix/cmake-build-debug/CMakeFiles/led_matrix.dir
+/Users/admin/CLionProjects/led_matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/CLionProjects/led_matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
